@@ -7,5 +7,4 @@
 - 前端框架：Vue、Jquery
 - 测试软件：jmeter、postman
 - 数据库：mssql、pgsql、mysql、mongodb
-- 消息中间件MQ：RabbitMQ、Redis、MSMQ、RabbitMQ
 - 版本控制：git、gitlab
